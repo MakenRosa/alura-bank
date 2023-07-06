@@ -1,6 +1,11 @@
 # Alura-Bank
 
-Este é um projeto desenvolvido durante o curso "TypeScript" da Alura. Neste curso, foram abordados os principais conceitos e recursos do TypeScript, permitindo uma compreensão aprofundada da linguagem e sua aplicação em projetos reais. Alguns dos tópicos abordados incluem:
+Este é um projeto desenvolvido durante os cursos da Alura:
+
+- TypeScript parte 1: evoluindo seu JavaScript. (10 horas, Concluído)
+- TypeScript parte 2: avançando na linguagem. (10 horas, Concluído)
+
+Neste curso, foram abordados os principais conceitos e recursos do TypeScript, permitindo uma compreensão aprofundada da linguagem e sua aplicação em projetos reais. Alguns dos tópicos abordados incluem:
 
 - Configuração do ambiente de desenvolvimento para o uso do TypeScript.
 - Exploração dos recursos e vantagens da tipagem estática do TypeScript.
