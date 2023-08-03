@@ -15,7 +15,7 @@ Neste curso, foram abordados os principais conceitos e recursos do TypeScript, p
 - Criação de um mini framework de atualização de view inspirado no JSX.
 - Configurações avançadas do compilador para maximizar a eficiência do código.
 
-**[Acesse aqui o Bank pelo Vercel](https://alura-bank.vercel.app/)**
+**[Acesse aqui o Bank pelo Vercel](https://bank-aug.vercel.app/)**
 
 ## Como clonar o repositório
 
