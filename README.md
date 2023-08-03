@@ -1,4 +1,4 @@
-# Alura-Bank
+# Bank
 
 Este é um projeto desenvolvido durante os cursos da Alura:
 
@@ -15,7 +15,7 @@ Neste curso, foram abordados os principais conceitos e recursos do TypeScript, p
 - Criação de um mini framework de atualização de view inspirado no JSX.
 - Configurações avançadas do compilador para maximizar a eficiência do código.
 
-**[Acesse aqui o Alura-Bank pelo Vercel](https://alura-bank.vercel.app/)**
+**[Acesse aqui o Bank pelo Vercel](https://alura-bank.vercel.app/)**
 
 ## Como clonar o repositório
 
@@ -30,7 +30,7 @@ Siga as etapas abaixo para clonar este repositório e executar o projeto em sua 
 4. Execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/makenrosa/alura-bank.git
+git clone https://github.com/makenrosa/bank.git
 ```
 
 5. Após o término do processo de clonagem, você terá uma cópia local do repositório em seu computador.
@@ -63,7 +63,7 @@ npm start
 
 A estrutura básica do projeto é a seguinte:
 
-```alura-bank/
+```bank/
 ├── .vscode/
 │   └── settings.json
 ├── app/
@@ -147,6 +147,6 @@ A estrutura básica do projeto é a seguinte:
 
 Este é um projeto desenvolvido como parte de um curso da Alura e, portanto, não é aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork deste repositório e personalizá-lo conforme suas necessidades.
 
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/alura-bank/issues) neste repositório.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma [issue](https://github.com/makenrosa/bank/issues) neste repositório.
 
 Aproveite o projeto! Se tiver alguma dúvida, não hesite em entrar em contato.
